@@ -1,0 +1,5 @@
+This is a pre-built action available under @Assertion. It checks whether the API response time is within the expected limit to validate the performance and responsiveness of the API request. 
+
+Syntax 
+
+Input Value: <Expected response time in ms>
