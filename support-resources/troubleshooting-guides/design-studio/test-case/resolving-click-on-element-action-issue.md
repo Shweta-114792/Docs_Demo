@@ -1,0 +1,4 @@
+# Resolving Click on Element Action Issue
+
+| Element on the tool was giving not found error when **Click on Element** action was used.  | <ul><li>The object is not present in the application. </li><li>The element property might have changed in the application. </li></ul><p> </p> | <ul><li>Verify the element is located on the application. </li><li>Inspect and check if the properties are matching, if not update with the new properties manually or capture it freshly.  </li></ul><p> </p> |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

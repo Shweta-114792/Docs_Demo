@@ -1,0 +1,4 @@
+# Executing Test Cases without Failures
+
+| Test failures occur during execution.  | <ul><li>Testcase are depended on each other </li></ul><p> </p><ul><li>Test cases are not properly arranged.  </li></ul><p> </p><p> </p> | <ul><li>If the test cases are dependent and located in different folders, include them in the E2E flow to ensure smooth execution. </li></ul><p> </p><ul><li>Add the created E2E flow to the execution list and perform the execution. </li></ul><p> </p> |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

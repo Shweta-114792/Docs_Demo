@@ -1,1 +1,7 @@
-Shweta_Demo was created
+# Getting Started with Avo Assure
+
+Avo Assure is a platform open to all users, irrespective of their test automation knowledge and experience.
+
+Learn about its features and functionalities in detail to help with end-to-end automation journey through Avo's comprehensive documentation, tutorials, learnings platform, and community forums.
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Know about the <strong>journey as a first-time user</strong> in Avo Assure.</td><td><a href="introduction-to-avo-assure/commence-avo-journey.md">Learn more</a></td><td></td><td><a href=".gitbook/assets/min.png">min.png</a></td></tr><tr><td>Follow the step-by-step guide to <strong>install</strong> Avo Assure on your system.</td><td><a href="introduction-to-avo-assure/accessing-assure-instance.md">Learn more</a></td><td></td><td><a href=".gitbook/assets/ppt59D4.pptm  -  AutoRecovered (2).png">ppt59D4.pptm  -  AutoRecovered (2).png</a></td></tr><tr><td>Know about roles and responsibilities of an <strong>Admin</strong> in Avo Assure.</td><td><a href="administration/">Learn more</a></td><td></td><td><a href=".gitbook/assets/Admin 2.png">Admin 2.png</a></td></tr><tr><td>Know the <strong>End-User System Requirements</strong> for Avo Assure.</td><td><a href="avo-assure-installation-requirements/end-user-system-requirements.md">Learn more</a></td><td></td><td><a href=".gitbook/assets/Che.png">Che.png</a></td></tr><tr><td>Know about the <strong>third-party integration</strong> tools in Avo Assure.</td><td><a href="integrations-in-avo-assure/">Learn more</a></td><td></td><td><a href=".gitbook/assets/Inte.png">Inte.png</a></td></tr></tbody></table>

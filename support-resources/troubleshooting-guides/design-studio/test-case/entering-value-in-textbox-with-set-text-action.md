@@ -1,0 +1,4 @@
+# Entering Value in Textbox with Set Text Action
+
+| **Set Text Action** does not work as expected. The value is not getting entered in the textbox  | <ul><li>The target element does not have focus when the action runs.   </li></ul> | <ul><li>Ensure the element is in focus before setting text.  </li><li>Try adding a Click on Element or Set Focus action before Set Text.   </li><li>If the issue persists, recapture the UI element.  </li></ul> |
+| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
