@@ -1,0 +1,5 @@
+# Recovery Mechanism
+
+The **Recovery Mechanism** in Avo Assure handles failures that occur during test execution. Test execution fails due to temporary issues such as the application freezing or becoming unresponsive, browser or network interruptions, session timeouts, or other unexpected system behavior that disrupts the test flow. When the system does not handle these failures, test execution stops or continues in an unstable state, and due to this the next Test cases may fail.
+
+This mechanism executes recovery steps when a Test case fails to ensure stable execution for subsequent Test cases. Recovery steps execute the Test case that is defined within the recovery step, and this Test case runs when the main Test case fails. By configuring recovery logic at different levels of the test structure, Avo Assure applies the defined recovery behavior based on the execution context. This approach ensures consistency during test execution. This article explains the Recovery Mechanism, how to create and delete recovery steps, and how to configure the execution list for recovery.
